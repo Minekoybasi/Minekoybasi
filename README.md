@@ -5,6 +5,8 @@
 
 📚 Learning Front-End Development
 
+🎓 BSc (Hons) Computing student at University of Suffolk
+
 💡 Exploring the art of creating user-friendly and visually appealing web experiences
 
 🌍 Based in the UK, always curious and eager to learn more
