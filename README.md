@@ -13,12 +13,16 @@
 
 Let’s connect! Feel free to follow me and say hi!
 
+<!---
+Minekoybasi/Minekoybasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minekoybasi&label=Profile%20views&color=0e75b6&style=flat" alt="minekoybasi" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
