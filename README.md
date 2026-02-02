@@ -36,8 +36,3 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=Minekoybasi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minekoybasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Minekoybasi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
