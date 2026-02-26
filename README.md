@@ -1,31 +1,26 @@
-# Hi 👋 I'm Mine Koybasi
+# 👋 Hi, I'm Mine Koybasi
 
 🎓 BSc (Hons) Computing Student – University of Suffolk  
 💻 Front-End Developer in progress  
 🎨 Passionate about technology, UI/UX and clean design  
 
----
+## 🚀 About Me
+- Currently focusing on Front-End Development and UI/UX principles  
+- Based in the UK  
+- Curious by nature. Driven by growth.  
 
-### 🚀 About Me
-- Currently focusing on Front-End Development and UI/UX principles
-- Exploring how to build user-friendly and visually appealing web experiences
-- Based in the UK 🇬🇧
-- Always curious, always learning
+## 🛠 Languages & Tools
+HTML | CSS | JavaScript | React  
+Python  
+Java (OOP, JavaFX)  
+Git | GitHub  
 
----
-
-### 🛠 Languages & Tools
-HTML | CSS | JavaScript | React | Python | Git | GitHub
-
----
-
-### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/mine-koybasi-58167b3aa
-- Email: mine.koybasi@gmail.com
-
----
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/mine-koybasi-58167b3aa  
+- Email: koybasimine@gmail.com  
 
 ✨ Always building. Always improving.
+
 
 
 
