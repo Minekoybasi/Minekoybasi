@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mine Koybasi
 
-🎓 BSc (Hons) Computing Student – University of Suffolk  
+🎓 BSc (Hons) Computer Science Student – University of Suffolk  
 💻 Front-End Developer in progress  
 🎨 Passionate about technology, UI/UX and clean design  
 
