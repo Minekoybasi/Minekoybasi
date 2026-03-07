@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - Currently focusing on Front-End Development and UI/UX principles  
 - Based in the UK  
-- Curious by nature. Driven by growth.  
+- Curious by nature,driven by growth.  
 
 ## 🛠 Languages & Tools
 HTML | CSS | JavaScript | React  
@@ -15,7 +15,7 @@ Python
 Java (OOP, JavaFX)  
 Git | GitHub  
 
-## 📫 Connect With Me
+## 📫 Get in Touch 
 - LinkedIn: https://linkedin.com/in/mine-koybasi-58167b3aa  
 - Email: koybasimine@gmail.com  
 
